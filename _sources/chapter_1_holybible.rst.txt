@@ -1,0 +1,26 @@
+.. document_server_root documentation master file, created by
+   sphinx-quickstart on Tue Oct 23 09:13:55 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+
+一、圣经 HolyBible
+===============================
+
+1.1、系统环境：
+++++++++++++++++++++++++++++++++++++++++++++
+
+1.1.1、操作系统：
+-----------------------------------
+
+        笔记本当前：python-3.6.6-amd64 + django-2.1.1
+
+
+1.1.3、 .service
+-----------------------------------
+
+        .service所在目录 /usr/lib/systemd/system/    ；    mysqld.service  ； f9933_net_admin_uwsgi.service
